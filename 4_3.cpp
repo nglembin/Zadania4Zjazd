@@ -27,7 +27,7 @@ int main() {
         }
     }
 
-    cout << "Zawartosc tablicy 10x10:" << endl;
+    cout << "Zawartosc tablicy:" << endl;
     for (int i = 0; i < 10; i++) {
         for (int j = 0; j < 10; j++) {
             cout << tablica[i][j] << "\t";
